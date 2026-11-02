@@ -16,7 +16,7 @@
 
 ## What is DS3?
 
-DS3 Studio is a lightweight, single-file Flask web UI that connects directly to the [duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) local API. It gives you a modern, streaming chat interface with workspace management — all running on your machine, no API keys needed.
+DS3 Studio is a lightweight, single-file Flask web UI that connects directly to the [duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) local API. It gives you a modern, streaming chat interface with workspace management — all running on your machine. Get your own duck there ! 
 
 ## ✨ Features
 
@@ -32,14 +32,57 @@ DS3 Studio is a lightweight, single-file Flask web UI that connects directly to 
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Python 3.12+
-- [duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) running with `/api 8989`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white" alt="Python 3.12+">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/UI-Flask_+_Vanilla_JS-orange" alt="UI Stack">
+  <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen" alt="Status">
+</p>
 
-### Install & Run
+---
 
+## 🚀 Quick Start
 
+Get DS3 Studio running on your local machine in under 2 minutes.
 
+### 📋 Prerequisites
+- **Python 3.12 or newer**  
+  Check your version by typing: `python --version`  
+  *Don't have it?* [Download Python here](https://www.python.org/downloads/) *(⚠️ Make sure to check **"Add Python to PATH"** during installation!)*
+- **DuckDuckGo Chat CLI** running locally in the background with the API enabled (`/api 8989`)
+
+---
+
+### 📥 Step 1: Download DS3
+Get the latest release files directly from GitHub:  
+👉 **[Download DS3 Release Here](https://github.com/altonsuper/ds/releases/tag/DS)**  
+*(Extract the downloaded `.zip` file to a folder on your computer, e.g., `C:\ds3`)* 
+👉 Better be side2 side with the duck cli folder C:\Users\[yourname]\Documents\duckchat\
+
+### ⚙️ Step 2: Install Dependencies
+Open your terminal (Command Prompt or PowerShell), navigate to the extracted folder, and install the required packages. 
+
+**Option A: Standard Python (Recommended for beginners)**
 ```bash
-pip install flask requests markdown-it-py pygments
+pip install -r requirements.txt
+```
+```bash
+if have uv :
+uv pip install --system -r requirements.txt
+(This automatically installs flask, requests, markdown-it-py, and pygments.)
+```
+🎯 Step 3: Run It!
+Ensure your Duck CLI is running, then start DS3 in your terminal:
+```bash
 python ds3.py
+```
+You will see a success message like this:
+==================================================================
+  DS3 Studio  ->  http://127.0.0.1:7862
+  Duck CLI    ->  http://127.0.0.1:8989
+  Workspace   ->  C:\...\ds3\workspace
+  Data        ->  C:\...\ds3\data
+==================================================================
+🎉 You're done! Open your web browser and go to:
+👉 http://127.0.0.1:7862
+
