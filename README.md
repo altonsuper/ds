@@ -99,3 +99,5 @@ get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and
 ===========================================
 ```
 altonsuper
+
+<img width="1672" height="941" alt="duckai-1793619644687103500" src="https://github.com/user-attachments/assets/e2dde4a6-8131-4d57-a3ec-e76ae39f1acf" />
