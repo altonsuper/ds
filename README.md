@@ -91,7 +91,7 @@ ps Get your DUCK here :
 [https://github.com/benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli/releases)
 get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and run ds3.py
 
-==================================================================
+===============================================
 ⚡ THIS VERSION WAS HOPEFULLY UNIVERSALL !! ⚡
 🙏🙏🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️🙏🙏🙏🙏🙏🙏
-==================================================================
+===============================================
