@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="duckai-1793615256378047600" src="https://github.com/user-attachments/assets/c3275887-60b6-4243-aad7-5fef23dbdeb4" />
 <p align="center">
   <img src="images/duckai-1793615256378047600.jpeg" alt="DS3 Studio Banner" width="100%">
 </p>
