@@ -57,7 +57,7 @@ Get DS3 Studio running on your local machine in under 2 minutes.
 Get the latest release files directly from GitHub:  
 👉 **[Download DS3 Release Here](https://github.com/altonsuper/ds/releases/tag/DS)**  
 *(Extract the downloaded `.zip` file to a folder on your computer, e.g., `C:\ds3`)* 
-👉 Better be side2 side with the duck cli folder C:\Users\[yourname]\Documents\duckchat\
+👉 Better be side2 side with the duck cli folder `C:\Users\[yourname]\Documents\duckchat\`
 
 ### ⚙️ Step 2: Install Dependencies
 Open your terminal (Command Prompt or PowerShell), navigate to the extracted folder, and install the required packages. 
@@ -86,3 +86,10 @@ You will see a success message like this:
 🎉 You're done! Open your web browser and go to:
 👉 http://127.0.0.1:7862
 
+
+ps Get your DUCK here : 
+[https://github.com/benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli/releases)
+get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and run ds3.py
+
+⚡ THIS VERSION WAS HOPEFULLY UNIVERSALL !! ⚡
+🙏🙏🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️🙏🙏🙏🙏🙏🙏
