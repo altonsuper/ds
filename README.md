@@ -93,5 +93,6 @@ get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and
 
 ```
 ===========================================
-⚡ THIS VERSION WAS HOPEFULLY UNIVERSALL!!⚡```
+⚡ THIS VERSION WAS HOPEFULLY UNIVERSALL!!⚡
 🙏🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️🙏🙏🙏🙏🙏
+```
