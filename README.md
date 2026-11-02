@@ -77,12 +77,12 @@ Ensure your Duck CLI is running, then start DS3 in your terminal:
 python ds3.py
 ```
 You will see a success message like this:
-==================================================================
+
   DS3 Studio  ->  http://127.0.0.1:7862
   Duck CLI    ->  http://127.0.0.1:8989
   Workspace   ->  C:\...\ds3\workspace
   Data        ->  C:\...\ds3\data
-==================================================================
+
 🎉 You're done! Open your web browser and go to:
 👉 http://127.0.0.1:7862
 
@@ -91,5 +91,7 @@ ps Get your DUCK here :
 [https://github.com/benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli/releases)
 get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and run ds3.py
 
+==================================================================
 ⚡ THIS VERSION WAS HOPEFULLY UNIVERSALL !! ⚡
 🙏🙏🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️🙏🙏🙏🙏🙏🙏
+==================================================================
