@@ -101,3 +101,10 @@ get app --- run it --- type /api 8989 /dashboard on try mess inside the conf and
 altonsuper
 
 <img width="1672" height="941" alt="duckai-1793619644687103500" src="https://github.com/user-attachments/assets/e2dde4a6-8131-4d57-a3ec-e76ae39f1acf" />
+
+
+
+The battlefield stories 
+
+<img width="2752" height="1536" alt="1793619787599e" src="https://github.com/user-attachments/assets/b8f86bc7-bf8e-4f6b-a550-5f1af5050067" />
+
